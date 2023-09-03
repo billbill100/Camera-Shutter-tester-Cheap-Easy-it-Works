@@ -7,7 +7,7 @@ https://www.photrio.com/forum/threads/build-a-shutter-tester-for-focal-plane-shu
 
 For newbuilds, it is strongly suggested to use an ESP32 board, rather than the Arduino Nano. As the former has far more functionality and only costs slightly more than the Nano.
 
-I would really be grateful if you start to build the shuttertester, that you go to the Photrio thread and say hi. Also please post photos of your completed tester.
+I would really be grateful if you start to build the shutter tester, that you go to the Photrio thread and say hi. Also please post photos of your completed tester.
 
 This is a new github page and I hope to add photos, and guides for hardware build, software load (Arduino & ESP32, as they are slightly different) and a user guide.
 
