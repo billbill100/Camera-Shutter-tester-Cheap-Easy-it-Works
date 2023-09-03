@@ -1,0 +1,26 @@
+
+Hi,
+Below are links to the parts required. They are valid now, but of course could become dead in the future.
+At todays prices, the cost tots up to £25. It will be cheaper ordering from Aliexpress or Banggood, or the china shipped ones on Ebay.
+
+
+Ardiono Nano V3 (This one is pre-soldered, most & the cheaper ones, you have to solder the header pins)
+https://www.ebay.co.uk/itm/155268946210?hash=item2426c01922:g:~1kAAOSw3lVjsKZ~&amdata=enc:AQAHAAAA4GjC2pWk5qRaJxa6rFrr3A+a3Vne+Bm8hbnt43l75oaqTsHP0nKbsx6ZTJBJFh75JjapwNMo1eScLYeAiW9moGOFb434iRJ3a6GHbsHoD+Zf24DtR1WcW/muuvQICIFNbBBSmgvg05C4HWTqJFct8YcF4GAzUXpRSnTytJueuVgaJ81UUCccdxmhtoSZPVwjwWqAqWh4z2odaC5QdV2yQONIVSq8qjlF4PTtTrrbAURzB/LNTIISxnfw9DgSjWTmc1Fv/h1kHX5EJo9ZsAzielDdNqP9+SkOmXmWyxuVAp5F|tkp:BFBMhoWz39Fh&fbclid=IwAR0HA_Crk-CAhXYe1MBT14N6i78jaDGHql5A_6zNG-PT--zG_0QuWR_UHaA
+
+
+Arduino Nano prototype board. The screw terminals and header sockets may require soldering to the board.
+https://www.ebay.co.uk/itm/25574030...8qHqzcZBwVw-nd_T5d4N1YcF87EgU9wsM_kpwdtfZM_nY
+
+
+Laser tx & rx module. Two sets required. The sensor is supplied loose. Ensure you insert it the correct way round. Little bubble lens points towards the header pins.
+https://www.ebay.co.uk/itm/123956379816?_trkparms=pageci:ff42177b-b5db-11ed-b074-8e404db11160|parentrq:8df9befa1860a2436f563421fffcd8f0|iid:1&_trksid=p2380057.c101526.m146925&fbclid=IwAR3j0N_jFKx1-UqNmj6t8qoPV-sbr0HPwOcXZ_R8_OMrsk_M-MeKL4uGfss
+
+
+LCD. Ensure you get a module that includes the IIC or i2C module. You can save money and not buy the LCD. The code also prints the results to the PC screen.
+https://www.ebay.co.uk/itm/263042637252?epid=19003451043&hash=item3d3e901dc4:g:MzYAAOSw3wJi46O3&amdata=enc:AQAHAAAA4CXIssHpa4UWAMaHTDt6PAWkXr1jpU7+ydptILFg00BOLAPMjkzE7NaKqzuUi1q5pC6N5QNIqY0CWfphDw7m8tl3iYZs76DgKa1jfxJITC0uBGk/ywO9JYsDVWyF+99O5TtOaeo1iGD/0YNswMveQf7qXhN6XARtdzU8OqH7OQY6xAfJmVbZwc1w73x2aKQn2BEq7Nd8cM68w9Fw5TC8H0rjVdqT4S8BUA7/Ybn4I/Odd9/qi+FDP/uR6XTGypAcfSye0ofNGrOyUrVnF1wVmoFeEwOfALYT1nvhzsM5FAL0|tkp:BFBM9urb39Fh&fbclid=IwAR20DfmBevRwX-yyaunNGCQpWz1fXVagBq6yM5sN3ok_DdIS64GhfMDHEuc
+
+Dupont wires. Get the 30cm male to female ones.
+www.ebay.co.uk
+40 Dupont Jump Wire M-F M-M F-F Jumper Breadboard Cable Lead Arduino HOBBY UK PO | eBay
+Find many great new & used options and get the best deals for 40 Dupont Jump Wire M-F M-M F-F Jumper Breadboard Cable Lead Arduino HOBBY UK PO at the best online prices at eBay! Free delivery for many products.
+www.ebay.co.uk
