@@ -1,7 +1,7 @@
+Below are links to the parts required for the ARDUINO version of the shutter tester. 
+Links are valid now, but of course could become dead in the future.
 
-Hi,
-Below are links to the parts required. They are valid now, but of course could become dead in the future.
-At todays prices, the cost tots up to £25. It will be cheaper ordering from Aliexpress or Banggood, or the china shipped ones on Ebay.
+At todays prices, the cost tots up to around £25. It will be cheaper ordering from Aliexpress or Banggood, or the china shipped ones on Ebay.
 
 PLEASE CONSIDER USING THE ESP32 VERSION IN PLACE OF THE ARDUINO. AS THERE IS MORE FUNCTIONALITY & DEVELPMENT POTENTIAL WITH THE ESP32
 SEPERATE FILE DETAILS ESP32 PARTS
