@@ -3,6 +3,8 @@ Hi,
 Below are links to the parts required. They are valid now, but of course could become dead in the future.
 At todays prices, the cost tots up to £25. It will be cheaper ordering from Aliexpress or Banggood, or the china shipped ones on Ebay.
 
+PLEASE CONSIDER USING THE ESP32 VERSION IN PLACE OF THE ARDUINO. AS THERE IS MORE FUNCTIONALITY & DEVELPMENT POTENTIAL WITH THE ESP32
+SEPERATE FILE DETAILS ESP32 PARTS
 
 Ardiono Nano V3 (This one is pre-soldered, most & the cheaper ones, you have to solder the header pins)
 https://www.ebay.co.uk/itm/155268946210?hash=item2426c01922:g:~1kAAOSw3lVjsKZ~&amdata=enc:AQAHAAAA4GjC2pWk5qRaJxa6rFrr3A+a3Vne+Bm8hbnt43l75oaqTsHP0nKbsx6ZTJBJFh75JjapwNMo1eScLYeAiW9moGOFb434iRJ3a6GHbsHoD+Zf24DtR1WcW/muuvQICIFNbBBSmgvg05C4HWTqJFct8YcF4GAzUXpRSnTytJueuVgaJ81UUCccdxmhtoSZPVwjwWqAqWh4z2odaC5QdV2yQONIVSq8qjlF4PTtTrrbAURzB/LNTIISxnfw9DgSjWTmc1Fv/h1kHX5EJo9ZsAzielDdNqP9+SkOmXmWyxuVAp5F|tkp:BFBMhoWz39Fh&fbclid=IwAR0HA_Crk-CAhXYe1MBT14N6i78jaDGHql5A_6zNG-PT--zG_0QuWR_UHaA
