@@ -1,7 +1,7 @@
 # Camera-Shutter-tester-Cheap-Easy-it-Works
 Arduino or ESP32 based shutter tester using two lasers. This allows for correct focal plane curtain speed adjustment &amp; even exposure across the frame.
 
-It is designed to use cheap, easy to obtain parts from Ebay (or cheaper still, but longer postal times, from Aliexpress) and a comprehenive build guide threae was posted on Photrio
+It is designed to use cheap, easy to obtain parts from Ebay (or cheaper still, but longer postal times, from Aliexpress) and a comprehenive build guide thread was posted on Photrio.
 
 https://www.photrio.com/forum/threads/build-a-shutter-tester-for-focal-plane-shutters-cheap-easy-it-works.197756/
 
