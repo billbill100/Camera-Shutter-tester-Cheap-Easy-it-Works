@@ -1,7 +1,12 @@
 # Camera-Shutter-tester-Cheap-Easy-it-Works
-Arduino or ESP32 based shutter tester using two lasers. This allows for correct focal plane curtain speed adjustment &amp; even exposure across the frame.
+Arduino or ESP32 based shutter tester using two lasers. 
 
-It is designed to use cheap, easy to obtain parts from Ebay (or cheaper still, but longer postal times, from Aliexpress) and a comprehenive build guide thread was posted on Photrio.
+The use of two lasers & two receivers allows for correct travel time measurement for each shutter curtain of a focal plane shutter, which is most important to ensure even exposure across the frame and no shutter blanking. Flash sync can also be confirmed.
+
+Diy builds that use a single sensor or Audacity simply will not work. Both shutter curtains must be set to travel at the same speed, which is simply not possible using just one sensor.
+
+The shutter tester is designed to use cheap, easy to obtain parts from Ebay (or cheaper still, but longer postal times, from Aliexpress).
+A comprehenive build guide thread was posted on Photrio.
 
 https://www.photrio.com/forum/threads/build-a-shutter-tester-for-focal-plane-shutters-cheap-easy-it-works.197756/
 
