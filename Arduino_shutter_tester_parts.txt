@@ -27,6 +27,8 @@ https://www.ebay.co.uk/itm/115837592826?hash=item1af87564fa:g:ZeIAAOSw8SlkkKjg&a
 
 
 
-Dupont wires. Get the 30cm female to female ones, if using the prototype board above. 
+Dupont wires. Purchase female to female ones, if using the prototype board above.
+30cm or 40cm are suggeste for connection to the sensors.
+Shorter wires 10 or 20cm can be used for connection to the buttons & LCD.
 https://www.ebay.co.uk/itm/223799053149?hash=item341b768b5d:g:83QAAOSwW21e4Lkl&amdata=enc%3AAQAIAAAAwNv8IcqFPa4bkeKQKRz3R1xJpcGThheoyAuhQvJslPLym1fvz%2BHQTqsdoM%2FWn4lw7NmfvsHDPdZP3WJu3%2BSvc7whUJlGdks5nbZw6WiL1gAgugTFaOU5BfwClD5wWflS%2FLRYGvG4CRd4q62tWi3EFlAjPIzc7L5Pq2Ewgnl6lJbywWGMJX8kvAPRpr0Xm4iytOWQTy1B5UxQOkg0kKqIm9%2F3zkkNy9KHhR50T0WRRyMMVhlSuNZ%2BdjE%2BODH11tk9Rg%3D%3D%7Ctkp%3ABlBMUL78k8PLYg
 
