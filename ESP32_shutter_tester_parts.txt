@@ -21,7 +21,12 @@ https://www.ebay.co.uk/itm/134710853356?hash=item1f5d647eec:g:S1wAAOSwKDhk8TtP&a
 LCD. Ensure you get a module that includes the IIC or i2C module. You can save money and not buy the LCD. The code also prints the results to the PC screen.
 https://www.ebay.co.uk/itm/263042637252?epid=19003451043&hash=item3d3e901dc4:g:MzYAAOSw3wJi46O3&amdata=enc:AQAHAAAA4CXIssHpa4UWAMaHTDt6PAWkXr1jpU7+ydptILFg00BOLAPMjkzE7NaKqzuUi1q5pC6N5QNIqY0CWfphDw7m8tl3iYZs76DgKa1jfxJITC0uBGk/ywO9JYsDVWyF+99O5TtOaeo1iGD/0YNswMveQf7qXhN6XARtdzU8OqH7OQY6xAfJmVbZwc1w73x2aKQn2BEq7Nd8cM68w9Fw5TC8H0rjVdqT4S8BUA7/Ybn4I/Odd9/qi+FDP/uR6XTGypAcfSye0ofNGrOyUrVnF1wVmoFeEwOfALYT1nvhzsM5FAL0|tkp:BFBM9urb39Fh&fbclid=IwAR20DfmBevRwX-yyaunNGCQpWz1fXVagBq6yM5sN3ok_DdIS64GhfMDHEuc
 
-Dupont wires. Get the 30cm male to female ones, if using the prototype board above. 
+https://www.ebay.co.uk/itm/115837592826?hash=item1af87564fa:g:ZeIAAOSw8SlkkKjg&amdata=enc%3AAQAIAAAAwEcLCXttGI4SrQROtsjJE1mD5uptojPHxrrKrzOAicJPD57NxeDH%2F1ZYzOFUviHcwM80VP4jI1VyhcVkKZfLa7CvIYJzcUzi6ydQTM5Hv53ZzbXwES5i2EZioJxT7OqnkoDUjr5PjFMsStI9W7SLMiQPVc2%2FWuTa4oKDaomPxSOOAZU0LSh7oGM0hmDHhsDifIcvNDdqlPJFxkspAcIYTqIGxa45zarx9j3VDr8ENf0zs1K3mLrdgWZUmxmDqbAfHg%3D%3D%7Ctkp%3ABk9SR4jF5tHMYg
+
+
+Dupont wires. Purchase male to female ones, if using the screw prototype board.
+30cm or 40cm length are suggested for connection to the sensors.
+You can also purchase some shorter ones for connection to the LCD and buttons.
 https://www.ebay.co.uk/itm/223799053149?hash=item341b768b5d:g:83QAAOSwW21e4Lkl&amdata=enc%3AAQAIAAAAwNv8IcqFPa4bkeKQKRz3R1xJpcGThheoyAuhQvJslPLym1fvz%2BHQTqsdoM%2FWn4lw7NmfvsHDPdZP3WJu3%2BSvc7whUJlGdks5nbZw6WiL1gAgugTFaOU5BfwClD5wWflS%2FLRYGvG4CRd4q62tWi3EFlAjPIzc7L5Pq2Ewgnl6lJbywWGMJX8kvAPRpr0Xm4iytOWQTy1B5UxQOkg0kKqIm9%2F3zkkNy9KHhR50T0WRRyMMVhlSuNZ%2BdjE%2BODH11tk9Rg%3D%3D%7Ctkp%3ABlBMUL78k8PLYg
 
 
