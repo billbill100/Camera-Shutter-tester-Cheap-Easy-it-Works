@@ -1,2 +1,42 @@
-one
-two
+This file details each of the documents or files found in this repository, to aid finding the correct one swiftly.
+
+
+Arduino Shutter Tester Parts.pdf
+  List of parts required to make the Arduino version of the Shutter Tester. With links to & pictures of the parts
+
+Arduino Hardware Build.pdf
+  A guide of how to physically buils the tester, with, pictures & examples of completed testers
+
+Arduino Wiring diagram.pdf
+  Schematic of wiring & photos of a completed tester
+
+Arduino Software load.pdf
+  A guide to getting the software onto the Arduino Nano board.
+
+Arduino_shuttertimer_x_x_x_ori.ino.hex
+  The software to be loaded onto the Arduino Nano board.
+  Note this is for the original sensors
+
+Arduino_shuttertimer_x_x_x_new.ino.hex
+  The software to be loaded onto the Arduino Nano board
+  Note this is for the newer sensors
+
+Arduino_shuttertimer_x_x_x.v_ini.hex beta  
+  Pre-release beta version of software. For users to load find any bugs.
+  Check in with the photrio forum for details of the build
+
+
+ESP32_shutter_tester_parts.pdf
+  A list of the parts required to makethe ESP32 version of the shutter tester. With links to and pictures of the parts.
+
+note ....more ESP32 files to come. For now please find further ESP32 documentation on the photrio thread.
+
+https://www.photrio.com/forum/threads/build-a-shutter-tester-for-focal-plane-shutters-cheap-easy-it-works.197756/page-15
+
+
+
+
+
+ 
+  
+
