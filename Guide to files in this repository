@@ -4,6 +4,8 @@ for your free use, by saying 'Hi' on the Photrio thread & also posting photos of
 
 https://www.photrio.com/forum/threads/build-a-shutter-tester-for-focal-plane-shutters-cheap-easy-it-works.197756/page-15
 
+
+
 Arduino Shutter Tester Parts.pdf
   List of parts required to make the Arduino version of the Shutter Tester. With links to & pictures of the parts
 
@@ -32,13 +34,15 @@ Arduino_shuttertimer_x_x_x.v_ini.hex beta
 ESP32_shutter_tester_parts.pdf
   A list of the parts required to makethe ESP32 version of the shutter tester. With links to and pictures of the parts.
 
-
-ESP32 Firmware load.pdf
+ESP32 Shutter Tester Firmware load.pdf
   A guide to getting the software onto the Arduino Nano board.
 
 ESP32_Blink.ino.bin
   Test file for loading onto the ESP32. On-board LED will blink, on for 1 Second, off for 1/4 second 
   (to distingwish it from standad 1 second on/off blink code).
+
+ESP 32 Installing CP2102 USB Driver.pdf
+  Guide to installing CP2102 driver for ESP32 board
 
 Note:- ....more ESP32 files to come. For now please find further ESP32 documentation on the photrio thread.
 
