@@ -1,7 +1,7 @@
 # Camera-Shutter-tester-Cheap-Easy-it-Works
 Arduino or ESP32 based shutter tester using two lasers. 
 
-The use of two lasers & two receivers allows for correct travel time measurement for each shutter curtain of a focal plane shutter, which is most important to ensure even exposure across the frame and no shutter blanking. Flash sync can also be confirmed.
+The use of two lasers & two receivers allows for correct travel time measurement for each shutter curtain of a focal plane shutter, which is most important to ensure even exposure across the frame and without shutter blanking. Flash sync can also be confirmed. Note the ESP32 version will soon incorporate 3 Lasers (or 5, if both horizontal & vertical curtain measurement is required).
 
 Diy builds that use a single sensor or Audacity simply will not work. Both shutter curtains must be set to travel at the same speed, which is simply not possible using just one sensor.
 
