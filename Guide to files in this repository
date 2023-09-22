@@ -5,6 +5,8 @@ for your free use, by saying 'Hi' on the Photrio thread & also posting photos of
 https://www.photrio.com/forum/threads/build-a-shutter-tester-for-focal-plane-shutters-cheap-easy-it-works.197756/page-15
 
 
+Arduino_Shutter_Tester_Operating_Guide
+  Description of how to use the Shutter Tester
 
 Arduino Shutter Tester Parts.pdf
   List of parts required to make the Arduino version of the Shutter Tester. With links to & pictures of the parts
@@ -30,27 +32,46 @@ Arduino_shuttertimer_x_x_x.v_ini.hex beta
   Pre-release beta version of software. For users to load find any bugs.
   Check in with the photrio forum for details of the build
 
+--------------------------------------------------------------------------
+
+ESP32_Shutter_Tester_Operating_Guide
+  Description of how to use the Shutter Tester
 
 ESP32_shutter_tester_parts.pdf
   A list of the parts required to makethe ESP32 version of the shutter tester. With links to and pictures of the parts.
 
-ESP32 Shutter Tester Firmware load.pdf
+ESP32_Hardware_Build.pdf
+   A guide of how to physically build the tester, with, pictures & examples of completed testers
+
+ESP32_wiring_diagram.pdf
+   Schematic of wiring.
+
+ESP_32_Installing CP2102 USB Driver.pdf  ***
+  Guide to installing CP2102 driver for ESP32 board
+
+ESP32_Arduino_software_load              ***
+  Guide for downloading and installing required software
+
+ESP32 Shutter Tester Firmware load.pdf  ***
   A guide to getting the software onto the Arduino Nano board.
+
+*** These three guides must be followed in this order.
+
+
+ESP_32_Shutter_Timer_code ----to be added shortly.
+
 
 ESP32_Blink.ino.bin
   Test file for loading onto the ESP32. On-board LED will blink, on for 1 Second, off for 1/4 second 
   (to distingwish it from standad 1 second on/off blink code).
 
-ESP 32 Installing CP2102 USB Driver.pdf
-  Guide to installing CP2102 driver for ESP32 board
+ESP32_Blink_pin2_Serial_115200.bin
+Test file for loading onto the ESP32. On-board LED will blink, on for 1 Second, off for 1/4 second 
+  (to distingwish it from standad 1 second on/off blink code) and also display on the computer screen in 'Serial Monitor'
 
-Note:- ....more ESP32 files to come. For now please find further ESP32 documentation on the photrio thread.
+
+Active builders & users thread. If you start making the project, please say 'hi' here
 
 https://www.photrio.com/forum/threads/build-a-shutter-tester-for-focal-plane-shutters-cheap-easy-it-works.197756/page-15
 
-
-
-
- 
-  
 
