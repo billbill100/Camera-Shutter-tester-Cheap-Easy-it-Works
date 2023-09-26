@@ -58,17 +58,12 @@ ESP32 Shutter Tester Firmware load.pdf  ***
 *** These three guides must be followed in this order.
 
 
-ESP_32_Shutter_Timer_code ----to be added shortly.
+ESP_32_Shutter_Timer_code consisting of three files:-
+esp32_shutterTester_x_x_x_x.ino.bootloader.bin
+esp32_shutterTester_x_x_x_x.ino.partitions.bin
+esp32_shutterTester_x_x_x_x.ino.bin
 
-
-ESP32_Blink.ino.bin
-  Test file for loading onto the ESP32. On-board LED will blink, on for 1 Second, off for 1/4 second 
-  (to distingwish it from standad 1 second on/off blink code).
-
-ESP32_Blink_pin2_Serial_115200.bin
-Test file for loading onto the ESP32. On-board LED will blink, on for 1 Second, off for 1/4 second 
-  (to distingwish it from standad 1 second on/off blink code) and also display on the computer screen in 'Serial Monitor'
-
+Additionally, files listed as 'beta' maybe shown. Refer to the Photrio thread before using these.
 
 Active builders & users thread. If you start making the project, please say 'hi' here
 
