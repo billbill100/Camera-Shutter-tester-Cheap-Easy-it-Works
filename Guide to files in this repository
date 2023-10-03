@@ -72,7 +72,7 @@ Flash Download Tools.zip
   Compresssed folder containing 'Flash Download Tools', a program required to flash the Shutter Tester code to the ESP32 board. 
   (See document ESP32 Firmware load)
 
-ESP_32_Shutter_Timer_code consisting of three files:-
+ESP_32_Firmware subfolder consisting of three files:-
 esp32_shutterTester_x_x_x_x.ino.bootloader.bin
 esp32_shutterTester_x_x_x_x.ino.partitions.bin
 esp32_shutterTester_x_x_x_x.ino.bin
