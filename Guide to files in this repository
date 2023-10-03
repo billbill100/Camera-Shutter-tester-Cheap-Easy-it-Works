@@ -13,19 +13,19 @@ AVRDUDESS-2.14-setup.exe
 Arduino IDE software load.pdf
 This document details how to install the computer software to view results via the computer screen
 
-Arduino_Shutter Tester Operating Guide
+Arduino Shutter Tester Operating Guide
   Description of how to use the Shutter Tester
 
 Arduino Shutter Tester Parts.pdf
   List of parts required to make the Arduino version of the Shutter Tester. With links to & pictures of the parts
 
-Arduino Hardware Build.pdf
+Arduino Shutter Tester hardware Build.pdf
   A guide of how to physically build the tester, with, pictures & examples of completed testers
 
-Arduino Wiring diagram.pdf
+Arduino Shutter Tester wiring diagram.pdf
   Schematic of wiring & photos of a completed tester
 
-Arduino Firmware load.pdf
+Arduino Shutter Tester firmware load.pdf
   A guide to getting the Shutter Timer code onto the Arduino Nano board.
 
 Arduino_shuttertimer_x_x_x_ori.ino.hex
