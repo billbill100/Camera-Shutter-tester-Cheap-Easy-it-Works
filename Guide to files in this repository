@@ -4,8 +4,12 @@ for your free use, by saying 'Hi' on the Photrio thread & also posting photos of
 
 https://www.photrio.com/forum/threads/build-a-shutter-tester-for-focal-plane-shutters-cheap-easy-it-works.197756/page-15
 
+ARDUINO FOLDER:-
 
-Arduino_Shutter_Tester_Operating_Guide
+Arduino IDE software load.pdf
+This document details how to install the computer software to view results via the computer screen
+
+Arduino_Shutter Tester Operating Guide
   Description of how to use the Shutter Tester
 
 Arduino Shutter Tester Parts.pdf
@@ -18,7 +22,7 @@ Arduino Wiring diagram.pdf
   Schematic of wiring & photos of a completed tester
 
 Arduino Firmware load.pdf
-  A guide to getting the software onto the Arduino Nano board.
+  A guide to getting the Shutter Timer code onto the Arduino Nano board.
 
 Arduino_shuttertimer_x_x_x_ori.ino.hex
   The software to be loaded onto the Arduino Nano board.
@@ -29,33 +33,37 @@ Arduino_shuttertimer_x_x_x_new.ino.hex
   Note this is for the newer sensors
 
 Arduino_shuttertimer_x_x_x.v_ini.hex beta  
-  Pre-release beta version of software. For users to load find any bugs.
-  Check in with the photrio forum for details of the build
+  Pre-release beta version of firmware. For users to load find any bugs.
+  Check in with the photrio forum before using this code
 
 --------------------------------------------------------------------------
+
+ESP32 FOLDER:-
+
+CP210x_Universal_Windows_Driver.zip
+  USB driver required for communication to the ESP32 board.
+
+ESP32_Arduino_software_load
+  This document details how to install the computer software to view results via the computer screen 
+
+ESP_32_Installing CP2102 USB Driver.pdf
+  Guide to installing CP2102 driver for ESP32 board
 
 ESP32_Shutter_Tester_Operating_Guide
   Description of how to use the Shutter Tester
 
-ESP32_shutter_tester_parts.pdf
-  A list of the parts required to makethe ESP32 version of the shutter tester. With links to and pictures of the parts.
-
 ESP32_Hardware_Build.pdf
    A guide of how to physically build the tester, with, pictures & examples of completed testers
+
+ESP32 Shutter Tester Firmware load.pdf
+  A guide to getting the software onto the Arduino Nano board.
+
+ESP32_shutter_tester_parts.pdf
+  A list of the parts required to makethe ESP32 version of the shutter tester. With links to and pictures of the parts.
 
 ESP32_wiring_diagram.pdf
    Schematic of wiring.
 
-ESP_32_Installing CP2102 USB Driver.pdf  ***
-  Guide to installing CP2102 driver for ESP32 board
-
-ESP32_Arduino_software_load              ***
-  Guide for downloading and installing required software
-
-ESP32 Shutter Tester Firmware load.pdf  ***
-  A guide to getting the software onto the Arduino Nano board.
-
-*** These three guides must be followed in this order.
 
 
 ESP_32_Shutter_Timer_code consisting of three files:-
