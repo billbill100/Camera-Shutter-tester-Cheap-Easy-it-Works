@@ -6,6 +6,10 @@ https://www.photrio.com/forum/threads/build-a-shutter-tester-for-focal-plane-shu
 
 ARDUINO FOLDER:-
 
+AVRDUDESS-2.14-setup.exe
+ Executable file to install AVRDUDES, a program required to flash the Shutter Tester code to the Nano board. 
+  (See document Arduino_Firmware_load)
+
 Arduino IDE software load.pdf
 This document details how to install the computer software to view results via the computer screen
 
@@ -65,8 +69,8 @@ ESP32_wiring_diagram.pdf
    Schematic of wiring.
 
 Flash Download Tools.zip
-  Compresssed folder containing 'Flash Download Tools' 
-  (See document ESP32_Shutter_Tester_Firmware_load)
+  Compresssed folder containing 'Flash Download Tools', a program required to flash the Shutter Tester code to the ESP32 board. 
+  (See document ESP32 Firmware load)
 
 ESP_32_Shutter_Timer_code consisting of three files:-
 esp32_shutterTester_x_x_x_x.ino.bootloader.bin
