@@ -64,7 +64,9 @@ ESP32_shutter_tester_parts.pdf
 ESP32_wiring_diagram.pdf
    Schematic of wiring.
 
-
+Flash Download Tools.zip
+  Compresssed folder containing 'Flash Download Tools' 
+  (See document ESP32_Shutter_Tester_Firmware_load)
 
 ESP_32_Shutter_Timer_code consisting of three files:-
 esp32_shutterTester_x_x_x_x.ino.bootloader.bin
