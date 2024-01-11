@@ -66,7 +66,10 @@ ESP32_shutter_tester_parts.pdf
   A list of the parts required to makethe ESP32 version of the shutter tester. With links to and pictures of the parts.
 
 ESP32_wiring_diagram.pdf
-   Schematic of wiring.
+   Photos & guide of wiring.
+
+ESP32 Shutter Testerxxx_schematic
+ wiring diagrams (schematic)
 
 Flash Download Tools.zip
   Compresssed folder containing 'Flash Download Tools', a program required to flash the Shutter Tester code to the ESP32 board. 
