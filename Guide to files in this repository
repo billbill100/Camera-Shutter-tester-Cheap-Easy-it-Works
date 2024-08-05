@@ -34,7 +34,7 @@ Arduino_shuttertimer_x_x_x_ori.ino.hex
 
 Arduino_shuttertimer_x_x_x_new.ino.hex
   The software to be loaded onto the Arduino Nano board
-  Note this is for the newer sensors
+  Note this is for the newer sensors and is the FW that should normally be used.
 
 Arduino_shuttertimer_x_x_x.v_ini.hex beta  
   Pre-release beta version of firmware. For users to load find any bugs.
@@ -44,38 +44,56 @@ Arduino_shuttertimer_x_x_x.v_ini.hex beta
 
 ESP32 FOLDER:-
 
-CP210x_Universal_Windows_Driver.zip
-  USB driver required for communication to the ESP32 board.
-
-ESP32_Arduino_software_load
-  This document details how to install the computer software to view results via the computer screen 
-
-ESP_32_Installing CP2102 USB Driver.pdf
-  Guide to installing CP2102 driver for ESP32 board
-
-ESP32_Shutter_Tester_Operating_Guide
-  Description of how to use the Shutter Tester
-
-ESP32_Hardware_Build.pdf
-   A guide of how to physically build the tester, with, pictures & examples of completed testers
-
-ESP32 Shutter Tester Firmware load.pdf
-  A guide to getting the software onto the Arduino Nano board.
-
-ESP32_shutter_tester_parts.pdf
+1_ESP32_shutter_tester_parts.pdf
   A list of the parts required to makethe ESP32 version of the shutter tester. With links to and pictures of the parts.
 
-ESP32_wiring_diagram.pdf
+2_ESP32_Hardware_Build.pdf
+   A guide of how to physically build the tester, with, pictures & examples of completed testers
+
+3_ESP32_wiring_guide.pdf
    Photos & guide of wiring.
 
-ESP32 Shutter Testerxxx_schematic
- wiring diagrams (schematic)
+4_ESP_32_Installing CP2102 or CH340 USB Driver.pdf
+  Guide to installing CP2102 driver for ESP32 board
+
+5_ESP32_Arduino_software_load.pdf
+  This document details how to install the computer software to view results via the computer screen 
+
+6_ESP32 Shutter Tester Firmware load.pdf
+  A guide to getting the software onto the Arduino Nano board.
+
+7_ESP32_Shutter_Tester_Operating_Guide.pdf
+  Description of how to use the Shutter Tester
+
+8_build a box.pdf
+ Describes one method of marking out and cutting a project box
+
+9_ESP32 Shutter Tester Film_Gate Sensor.pdf
+ An atlertave method of mountning the semnsors. 
+
+10_ESP32 Shutter Tester tft_schematic_x_x_x_x_full.pdf
+ Schmenatic diagram showing connections - full version
+
+10_ESP32 Shutter Tester tft_schematic_x_x_x_x_full_bb.pdf
+ Schmenatic diagram showing connections - minimal version
+
+CP210xUniversal_Windows_Driver.zip
+ Windows driver for the ESP32 on-board USB interface.
 
 Flash Download Tools.zip
   Compresssed folder containing 'Flash Download Tools', a program required to flash the Shutter Tester code to the ESP32 board. 
   (See document ESP32 Firmware load)
 
-ESP_32_Firmware subfolder consisting of three files:-
+ESP_32_Shutter_Tester tft_schmatic_old_full.pdf
+ Old hardware version, pre FW 3_0_9_0
+
+ESP_32_Shutter_Tester tft_schmatic_old_minimal.pdf
+ Old hardware version, pre FW 3_0_0_9
+
+ESP_32_Firmware subfolder.
+ Within here, you will find one or more folders with current and old firmware versions.
+
+Each folder contains three files:-
 esp32_shutterTester_x_x_x_x.ino.bootloader.bin
 esp32_shutterTester_x_x_x_x.ino.partitions.bin
 esp32_shutterTester_x_x_x_x.ino.bin
