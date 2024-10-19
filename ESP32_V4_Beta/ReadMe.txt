@@ -5,8 +5,7 @@ The V3 build guides will be updated, showing the use of the new JST connectors,
 but for now, the V3 build guides can be used.
 
 The hardware changes from V3 to V4 are the addition of a rotary encoder 
-and
-The use of JST HX connectors and wiring colours in place of Dupont.
+and the use of JST HX connectors and wiring colours in place of Dupont.
 (Which does not effect functionality).
 
 V3 firmware will work on V4 hardware.
