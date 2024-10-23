@@ -1,6 +1,6 @@
 The latest firmware, V4, is listed here.
 
-The V3 build guides will be updated, showing the use of the new JST connectors, 
+The V3 build guides will be updated to V4, showing the use of the new JST connectors, 
 but for now, the V3 build guides can be used.
 
 The hardware changes from V3 to V4 are the addition of a rotary encoder 
