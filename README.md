@@ -1,8 +1,13 @@
 # Camera Shutter Tester -Cheap-Easy-it-Works
-ESP32 based shutter tester using three lasers. Based on the Arduino platform, but using a much faster processor, the ESP32.
+ESP32 or Arduino based shutter tester using three lasers (ESP32) or two Lasers (Ardiuno).
 
-Important note: - All new builds should use the ESP32_V4 firmware and documentation.
-The older V3 and Arduiono documentation is kept in this repository for reference purposes only and the firmware for these is no longer available.
+Important note: - Both ESP32 and Arduino based Shutter Testers are available.
+The ESP32 processor is superior to the Arduino in every way. Therefore the ESP32 based Shutter Tester has far greater functionality, including flash sync testing and better camera diagnostics. For this reason, it is recommended to build the ESP32 Version 4 based shutter Tester.
+
+Many people are more familiar with Arduino and may have an Arduino board available, so an Arduino version is also included. It uses the same secret algorythm to give the same accuracy as the ESP32 version, but due to limited memory and processor speed has far less functionaliy.
+
+The latest versiona are Version 4 for ESP32 and Version 2 for Arduino.
+The older V3 and original Arduiono documentation are in this repository for reference purposes only and the firmware for these is no longer available.
 
 The use of three lasers & three receivers allows for correct travel time measurement for each shutter curtain of a focal plane shutter, which is most important to ensure even exposure across the frame and detect shutter blanking & bouncing. Flash sync can also be confirmed.
 
