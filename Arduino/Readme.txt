@@ -4,4 +4,4 @@ It is recommended that all builds should use the ESP32 Version 4.
 
 If an Arduino version is preferred, then please see the Arduino V2 folder.
 
-The old version 1 documents, excluding firmware are left here for reference.
+Some old version 1 documents, excluding firmware are left here for reference.
