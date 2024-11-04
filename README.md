@@ -8,7 +8,7 @@ The ESP32 processor is superior to the Arduino in every way. Therefore the ESP32
 The Arduino version is simpler to build, so those with limited experience with microcontrollers & building electronic devices, may find this easier for a first time build.
 The Arduino version uses the same processing algorythm as the ESP32 version, so gives accurate shutter meaurements, unlike most (all) of the other Arduino testers found on the interweb.
 
-The latest versiona are Version 4 for ESP32 and Version 2 for Arduino.
+The latest versions are Version 4 for ESP32 and Version 2 for Arduino.
 The older V3 and original Arduiono documentation are in this repository for reference purposes only. although the firmware for these has been withdrawn.
 
 The use of three lasers & three receivers (or two for Arduino) allows for correct travel time measurement for each shutter curtain of a focal plane shutter, which is most important to ensure even exposure across the frame and to detect curtain bouncing. The ESP32 version with three sensors goes much further, with camera diagnostics to detect things like slow  curtaind, shutter capping etc. It also has comprehensive Flash sync testing & diagnostics.
