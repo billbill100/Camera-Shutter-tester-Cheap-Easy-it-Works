@@ -16,5 +16,25 @@ Prints a simple holder for the Lasers, with 20mm spacing between the outer Laser
 Laser_holder_32mm v?.stl 
 Prints a simple holder for the Lasers, with 32mm spacing between the outer Lasers.
 
-If you print them, please give feedback as to if they are ok, or any errors that need correcting
+In the folder ShutterTesterCase3dPrinted, You will find - 
+
+TheShutterTesterBox - which is the main front & sides of the case
+TheShutterTesterBottom - which is the bottom of the case
+
+There are three additional files for the rear, you only need to print one of these -
+
+TheShutterTesterRear             - which is plain and the easiest to print.
+TheShutterTesterRearEngravedText - which has text legends recessed into the case and prints in one colour
+TheShutterTesterRearFlushText    - which has text in a diffferent colour printed on the rear. 
+
+For this file, the text height is set to 0.2mm, so text will print as one layer minimising wasted purge filiment.
+You will have to split the file and select the two bodies to select the different print colours.
+
+TheShutterTesterBlank            - which is a blanking plate for unused socket holes on the rear of the case. It requires gluing in.
+
+Supports are not needed for the prints. It is designed to assemble using 2mm screws in the holes.
+Ensure the screw fits ok, drill out if the hole is too tight, to avoid splittingthe print.
+
+If you print any of these, please give feedback as to if they are ok, or any errors that need correcting
+
 
