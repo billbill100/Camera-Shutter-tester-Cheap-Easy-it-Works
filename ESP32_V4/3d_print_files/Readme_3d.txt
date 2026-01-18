@@ -3,21 +3,23 @@ List of files in this directory
 
 Project_box_template v?.stl 
 Marking out and cutting template for the specified project box. It should be laid on top of the project box lid and used to mark the cut-out for the TFT screen & mounting holes and centre hole markings for the encoder & button locations. 
-Note - Not for the 3d printed enclosure.
+Note - Not for the 3d printed case.
 
 Project_box_marking_out_4_inch v3.png 
 A marking out diagram, with dimensions. 
-Note - Not for the 3d printed enclosure.
+Note - Not for the 3d printed case.
 
 4inchTFTbezelV?.stl 
 Print a bezel which fits around the TFT screen, covering the gap between the cut-out and TFT screen.
-Note - Not for the 3d printed enclosure.
+Note - Not for the 3d printed case.
 
 Laser_holder_20mm v?.stl 
 Prints a simple holder for the Lasers, with 20mm spacing between the outer Lasers. 
+Note - Not for the 3d printed case.
 
 Laser_holder_32mm v?.stl 
 Prints a simple holder for the Lasers, with 32mm spacing between the outer Lasers.
+Note - Not for the 3d printed enclosure.
 -----------------------------------------------------------------------
 
 In the folder ShutterTesterCase3dPrinted, You will find - 
@@ -36,7 +38,7 @@ The text height is set to 0.2mm, so text will print as one layer minimising wast
 You will have to split the file and select the two bodies (text & main part) to select the different print colours.
 
 
-TheShutterTesterBlank            - which is a blanking plate for unused socket holes on the rear of the case. It requires gluing in.
+TheShutterTesterBlank - which is a blanking plate for unused socket holes on the rear of the case. It requires gluing in.
 
 Supports are not needed for the prints. It is designed to assemble using 2mm screws in the holes.
 Ensure the screw fits ok, drill out if the hole is too tight, to avoid splittingthe print.
@@ -44,6 +46,22 @@ All printed with PLA, 4mm nozzle and 0.2mm layers.
 
 If you print any of these, please give feedback as to if they are ok, or any errors that need correcting
 
+-------------------------------------------------
+
+In the folder ShutterTesterSensorEnclosure3dPrinted, You will find - 
+
+Shutter Tester Sensor Enclosure.3mf - This is a full enclosure to mount and house the sensors. Provision is made for either horizontal or vertical alignment.
+
+There are six seperate parts. Lid, box, two cable clamps and two sensor clamps.
+
+Shutter Tester Sensor EnclosureV?.jpg - This is a drawing of the enclosure
 
 
+-------------------------------------------------------------
+In the folder ShutterTesterLaserEnclosure3dPrinted, You will find - 
 
+Shutter Tester Laser Enclosure.3mf - This is a full enclosure to mount and house the Lasers. Provision is made for either horizontal or vertical alignment.
+
+There are four seperate parts. Lid, box, two cable clamps.
+
+Shutter Tester Laser EnclosureV?.jpg - This is a drawing of the enclosure.
