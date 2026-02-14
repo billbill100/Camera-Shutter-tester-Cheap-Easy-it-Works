@@ -1,0 +1,6 @@
+Beta firmware here.
+Latest is 4_1_0_3    14/02/2026
+
+This adds another display option to the existing three screens,
+a scope screen has been added, which gives a graphical trace view of the shutter timing
+and marks where the flash output is triggered.
