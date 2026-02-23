@@ -1,5 +1,5 @@
 
-List of files in this directory
+List of foldere & files in this directory
 
 Project_box_template v?.stl 
 Marking out and cutting template for the specified project box. It should be laid on top of the project box lid and used to mark the cut-out for the TFT screen & mounting holes and centre hole markings for the encoder & button locations. 
@@ -65,3 +65,10 @@ Shutter Tester Laser Enclosure.3mf - This is a full enclosure to mount and house
 There are four seperate parts. Lid, box, two cable clamps.
 
 Shutter Tester Laser EnclosureV?.jpg - This is a drawing of the enclosure.
+
+--------------------------------------------------------------------
+
+In the folder Expansion board frame, you will find - 
+
+A frame which fits onto the back of the tft, to mount the expanson board onto. The frame is fitted using the same bolts as the tft.
+holes will need to be drilled into the frame to mount the expansion board.
