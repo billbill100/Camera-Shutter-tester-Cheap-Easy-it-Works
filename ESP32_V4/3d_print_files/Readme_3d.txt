@@ -25,23 +25,23 @@ Note - Not for the 3d printed enclosure.
 In the folder ShutterTesterCase3dPrinted, You will find - 
 
 TheShutterTesterBox - The main part of the box with front and sides.
-TheShutterTesterBottom - which is the bottom of the box
+TheShutterTesterBottom - Bottom of the box
 
 There are three additional files for the rear, you only need to print one of these -
 
-TheShutterTesterRear             - which is plain and the easiest to print.
-TheShutterTesterRearEngravedText - which has text legends recessed into the case and prints in one colour
-TheShutterTesterRearFlushText    - which has text in a diffferent colour printed on the rear. 
+TheShutterTesterRear.3mf             - which is plain and the easiest to print.
+TheShutterTesterRearEngravedText.3mf - which has text legends recessed into the case and prints in one colour
+TheShutterTesterRearFlushText.3mf    - which has text in a diffferent colour printed on the rear. 
 
 The third file (above) is for experienced 3d printers only. 
 The text height is set to 0.2mm, so text will print as one layer minimising wasted purge filiment.
 You will have to split the file and select the two bodies (text & main part) to select the different print colours.
 
 
-TheShutterTesterBlank - which is a blanking plate for unused socket holes on the rear of the case. It requires gluing in.
+TheShutterTesterBlank.3mf - Blanking plate for unused socket holes on the rear of the case.
 
 Supports are not needed for the prints. It is designed to assemble using 2mm screws in the holes.
-Ensure the screw fits ok, drill out if the hole is too tight, to avoid splittingthe print.
+Ensure the screw fits ok, drill out if the hole is too tight, to avoid splitting the print.
 All printed with PLA, 4mm nozzle and 0.2mm layers.
 
 If you print any of these, please give feedback as to if they are ok, or any errors that need correcting
@@ -70,5 +70,15 @@ Shutter Tester Laser EnclosureV?.jpg - This is a drawing of the enclosure.
 
 In the folder Expansion board frame, you will find - 
 
+TheShutterTester_tft_exp_frame.3mf
+
 A frame which fits onto the back of the tft, to mount the expanson board onto. The frame is fitted using the same bolts as the tft.
 holes will need to be drilled into the frame to mount the expansion board.
+
+This can be used with the project box or 3d printed enclosure, as an alternative to mounting the expansion board directly onto the 3mm bolts.
+
+This can be useful for expansion boards that are too narrow to fit directly onto the tft mounting bolts.
+This can happen if the builder has chosen a 25mm, rather than 22.5mm pich ESP32 & expansion board, for example. As oddly the 25mm boards are narrower are narrower than the 22.5mm ones.
+
+
+
