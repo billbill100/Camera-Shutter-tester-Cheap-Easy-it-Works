@@ -1,0 +1,9 @@
+A 3d printed case is now available for the Arduino shutter tester.
+All parts are shown on one plate, but it is best to print the parts seperately.
+
+It is designed to use 13mm diameter buttons, a DIN socket (the socket could be negated and the wire just runn through the hole)
+and a USB-C to USB-c chassis mount extension cable. 
+Details of these parts can be found in the parts list document.
+
+3d print files are also available for sensor and Laser enclosures.
+These can be found in the ESP32 V4 folder.
