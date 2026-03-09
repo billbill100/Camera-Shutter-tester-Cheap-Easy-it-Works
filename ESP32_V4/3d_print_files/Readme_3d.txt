@@ -48,23 +48,18 @@ If you print any of these, please give feedback as to if they are ok, or any err
 
 -------------------------------------------------
 
-In the folder ShutterTesterSensorEnclosure3dPrinted, You will find - 
+In the folder ShutterTesterFrame, You will find - 
 
 Shutter Tester Sensor Enclosure.3mf - This is a full enclosure to mount and house the sensors. Provision is made for either horizontal or vertical alignment.
 
-There are six seperate parts. Lid, box, two cable clamps and two sensor clamps.
-
 Shutter Tester Sensor EnclosureV?.jpg - This is a drawing of the enclosure
-
-
--------------------------------------------------------------
-In the folder ShutterTesterLaserEnclosure3dPrinted, You will find - 
 
 Shutter Tester Laser Enclosure.3mf - This is a full enclosure to mount and house the Lasers. Provision is made for either horizontal or vertical alignment.
 
-There are four seperate parts. Lid, box, two cable clamps.
-
 Shutter Tester Laser EnclosureV?.jpg - This is a drawing of the enclosure.
+
+shutter_tester_base.3mf This is the mounting base for the sensor & Laser enclosures.
+
 
 --------------------------------------------------------------------
 
@@ -79,6 +74,7 @@ This can be used with the project box or 3d printed enclosure, as an alternative
 
 This can be useful for expansion boards that are too narrow to fit directly onto the tft mounting bolts.
 This can happen if the builder has chosen a 25mm, rather than 22.5mm pich ESP32 & expansion board, for example. As oddly the 25mm boards are narrower are narrower than the 22.5mm ones.
+
 
 
 
