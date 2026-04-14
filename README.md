@@ -19,7 +19,7 @@ The shutter tester is designed to use cheap, easy to obtain parts from Aliexpres
 
 A comprehensive build guide thread & user group can be found on on Photrio.
 
-https://www.photrio.com/forum/threads/build-a-shutter-tester-for-focal-plane-shutters-cheap-easy-it-works.197756/
+# https://www.photrio.com/forum/threads/build-a-shutter-tester-for-focal-plane-shutters-cheap-easy-it-works.197756/
 
 For newbuilds, it is strongly suggested to use an ESP32 board, rather than the Arduino Nano. The ESP32 has far more functionality and only costs slightly more than the Nano.
 It is slightly more complicated to build, so if it looks a bit daunting, start with the Arduino version.
@@ -30,3 +30,7 @@ On a new build, an authorisation code will be displayed. Send this to me via PM 
 I would really be grateful if you start to build the shutter tester, that you go to the Photrio thread and say hi. Also please post photos of your completed tester.
 
 Please refer to Photrio for further build help & to let us know you are building the tester..
+
+ Github has no direct means of contact, my email address is
+# bill bill github at gmail dot com
+(remove sapces & change to @ . )
