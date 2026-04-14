@@ -1,0 +1,23 @@
+The Shutter Teste is designed for the 4" screen specified in the parts document.
+
+Other screens are NOT supported.
+
+A few builders have not been able to get the specified 4" screen in their country and instead have used a smaller 3.5" screen 
+which has the same tft and touch drivers and resolution as the 4" screen.
+
+The file TheShutterTester3_5_screen.3mf in this folder is a sligghtly modified version of the orginal, having a smaller aperture to fit the smaller screen.
+
+The file TheShutterTester_tft_exp_frame_3_5.3mf is a slightly modified version of the original, 
+having the holes/standoffs moved to align with the fixing holes of the smaller tft screen,
+
+The mounting hole spacing is 92mm x 49.5mm.
+
+Other parts, (bottom & back) are the same as the 4" case and the print files will be found there
+
+There are of course different 3.5" screens available. The 3d print files are made to fit one particular screen,
+photos of which are in ther photos folder.
+
+Note: The screen display is rotated 180 degress compared to the 4" screen, so when mounting, the connextion pins should be at the botom of the screen.
+
+Note: IMPORTANT this 3.5" screen is NOT supported. Whilst my 3.5" screen worked fine, as has another builders, another screen was found to have black/white inverted. 
+If this is a fault of the screen or a different varient is unknown.
