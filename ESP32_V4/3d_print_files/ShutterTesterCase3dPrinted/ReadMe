@@ -1,0 +1,11 @@
+These files are for printing a case for The Shutter Tester.
+Print one TheShutterTesterBox and one ShutterTesterBottom.
+
+There is a choice of three rear panels, either without legends,
+with engraveved legends 
+
+or the third option using flush text of a different colour.
+This file will require changingsettings in your slicer, to print the 
+text first, then change colour for printing the main rear part.
+
+Finallythere is a blanking piece for unused holes.
