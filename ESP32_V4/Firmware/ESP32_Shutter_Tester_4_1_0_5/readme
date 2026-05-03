@@ -1,0 +1,5 @@
+Version 4.1.0.5 has a slight wiring change to previous versions.
+
+If the SD wiring has been added, the white wire on pin 17 must be moved to pin TX (also called 1)
+
+This is to allow the optional speaker to use pin 17.
