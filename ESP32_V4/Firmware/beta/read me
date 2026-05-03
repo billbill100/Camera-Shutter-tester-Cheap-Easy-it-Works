@@ -1,9 +1,0 @@
-Beta firmware here.
-Latest is 4_1_0_3b    16/02/2026
-
-This adds another display option to the existing three screens,
-a scope screen has been added, which gives a graphical trace view of the shutter timing
-and marks where the flash output is triggered.
-
-SD card behaviour changed. If an existing data file is found, data is appened to to it, rather than deleting and generting a new file.
-Option added to delete current files and generate new.
