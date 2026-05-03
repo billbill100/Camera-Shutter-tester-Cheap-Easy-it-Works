@@ -1,5 +1,5 @@
 # Camera Shutter Tester -Cheap-Easy-it-Works
-ESP32 or Arduino based shutter tester using three lasers (ESP32) or two Lasers (Ardiuno).
+ESP32 or Arduino based shutter tester using three sensors (ESP32) or two sensors (Ardiuno).
 
 Important note: - Both ESP32 and Arduino based Shutter Testers are available.
 
@@ -11,7 +11,7 @@ The Arduino version uses the same processing algorythm as the ESP32 version, so 
 
 The latest versions are Version 4 for ESP32 and Version 2 for Arduino.
 
-The use of three lasers & three receivers (or two for Arduino) allows for correct travel time measurement for each shutter curtain of a focal plane shutter, which is most important to ensure even exposure across the frame and to detect curtain bouncing.
+The use of three lasers & three sensor (two for Arduino) allows for correct travel time measurement for each shutter curtain of a focal plane shutter, which is most important to ensure even exposure across the frame and to detect curtain bouncing.
 
 DIY builds that use a single sensor or Audacity simply will not work. Both shutter curtains must be set to travel at the same speed, which is simply not measurable using just one sensor. Similarly there will always be an inherent error when measuring a single light point with a sensor, which of course will be wider than a single photon. This error can be mathematically calculated and corrected using a simple algorithm, if multiple sensors are used.
 
