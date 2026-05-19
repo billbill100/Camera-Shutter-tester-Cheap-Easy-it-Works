@@ -1,0 +1,7 @@
+Important:-
+
+There is a slight wiring change from version 4.1.0.5
+
+The optional SD card wire, formally in pin 17 has been moved to pin 3, labelled RX.
+
+This is to free pin 17 for connection to a speaker.
