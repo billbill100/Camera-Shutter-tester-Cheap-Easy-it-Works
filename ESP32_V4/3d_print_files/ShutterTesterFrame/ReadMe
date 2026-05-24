@@ -1,5 +1,8 @@
-These files are for the semnsor and Laser enclosure (boxes) and the base they fit into.
+These files are for the sensor and Laser enclosure (boxes) and the base they fit into.
 
 21/04/2026 The recess in the base was made to fit the AliExpress table I ordered, which was 88mm x 88mm.
 
 However it was reported that a recent table purchased was 90mm x 90mm. Therefore the recess for the table has been increased in size to 91mm x 91mm.
+
+24/05/2026 new file added shutter_tester_base103_smaller
+This file prints a base that is reduced in length from 220mm to 206mm, which is suitable for smaller printers.
