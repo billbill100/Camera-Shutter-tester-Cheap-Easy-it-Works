@@ -1,0 +1,10 @@
+The Shutter Tester Expansion Board Frame is required when using the optional pcb, rather than the standard screw-terminal breakout board.
+
+It can also be used to mount the standard screw-terminal board as an option.
+
+As the pcb is smaller than the tft screen, this frame alingns with the tft mounting holes.
+
+The pcb is then mounted to the frame, using self tapping screws through the pre-drilled holes in the pcb.
+
+Note you will have to drill pilot holes into the frame.
+
