@@ -5,7 +5,7 @@ Other screens are NOT supported.
 A few builders have not been able to get the specified 4" screen in their country and instead have used a smaller 3.5" screen 
 which has the same tft and touch drivers and resolution as the 4" screen.
 
-The file TheShutterTester3_5_screen.3mf in this folder is a sligghtly modified version of the orginal, having a smaller aperture to fit the smaller screen.
+The file TheShutterTester3_5_screen.3mf in this folder is a slightly modified version of the orginal 4" enclosure, having a smaller aperture to fit the smaller screen.
 
 The file TheShutterTester_tft_exp_frame_3_5.3mf is a slightly modified version of the original, 
 having the holes/standoffs moved to align with the fixing holes of the smaller tft screen,
